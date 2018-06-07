@@ -1,0 +1,9 @@
+<!-- Contains required properties for Mono.Android includes -->
+<Project>
+  <ItemGroup Label="References">
+    <Reference Include="Mono.Android">
+      <HintPath>D:\Program Files (x86)\Microsoft Visual Studio\Preview\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v7.1\Mono.Android.dll</HintPath>
+	  <Aliases>Android</Aliases>
+	</Reference>
+  </ItemGroup>
+</Project>

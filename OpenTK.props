@@ -1,0 +1,6 @@
+<!-- Contains required properties for OpenTK includes. -->
+<Project>
+  <ItemGroup Label="OpenTK">
+    <Reference Include="..\Libraries\OpenTK-3.0.dll" />
+  </ItemGroup>
+</Project>
